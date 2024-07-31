@@ -1,4 +1,4 @@
-const apiKey = 'aG5BK10VOmyInEIhXhG3UpmV2aveplaO';
+import { apiKey } from './JS/config.js';
 let center = [107.6110212, -6.9215529];
 const stylemap ='https://api.tomtom.com/style/2/custom/style/dG9tdG9tQEBAZU9zd2VGcGoxR3l5d0xPczs0NTFmZmQ3NC03MDY0LTQ4NWYtOTA4ZS05NWViNGIyMDFkZjY=.json?key='+apiKey
 
